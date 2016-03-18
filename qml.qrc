@@ -1,0 +1,15 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>images/Compass.jpg</file>
+        <file>images/Course_arrow.jpg</file>
+        <file>images/Pitch_arrow.jpg</file>
+        <file>images/Pitch.jpg</file>
+        <file>images/Roll_arrow.jpg</file>
+        <file>images/Roll.jpg</file>
+        <file>Course_Dial.qml</file>
+        <file>Dial.qml</file>
+        <file>Roll_Dial.qml</file>
+        <file>Pitch_Dial.qml</file>
+    </qresource>
+</RCC>
